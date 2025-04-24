@@ -7,7 +7,7 @@ const Header = () => {
           <h1>Students Quiz App</h1>
           <p>Welcome to the Students Quiz App! Click below to start your journey.</p>
           <Link to="/main-menu">
-            <button>Start Quiz</button> 
+            <button>Let's Go</button> 
             </Link>
     </div>
   )
